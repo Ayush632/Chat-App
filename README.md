@@ -1,3 +1,3 @@
-# In Progress
+# Project 2
 
-It is a web application where users can chat and create rooms
+Web Programming with Python and JavaScript
